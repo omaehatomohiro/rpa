@@ -1,0 +1,5 @@
+__tests__
+lib/repositories
+lib/services/SpreadsheetService.js
+lib/services/SpredSheetService.js
+lib/services/UpcellService.js
